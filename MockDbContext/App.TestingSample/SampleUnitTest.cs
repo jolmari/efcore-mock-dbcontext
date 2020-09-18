@@ -1,16 +1,14 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using App.Data.Entities;
 using App.Data.Interfaces;
 using FluentAssertions;
-using Microsoft.EntityFrameworkCore;
 using Moq;
 using Testing.Common.Helpers;
 using Xunit;
 
-namespace TestingSample
+namespace App.TestingSample
 {
     public class SampleUnitTest
     {

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSample", "MockDbContext\TestingSample.csproj", "{93E349FC-F14E-499A-9F43-DD8C6F33BD71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.TestingSample", "App.TestingSample\App.TestingSample.csproj", "{93E349FC-F14E-499A-9F43-DD8C6F33BD71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Common", "TestingSample\Testing.Common.csproj", "{E4A09703-4CBE-4ED7-82CB-4166199BF49D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing.Common", "Testing.Common\Testing.Common.csproj", "{E4A09703-4CBE-4ED7-82CB-4166199BF49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Data", "Data\App.Data.csproj", "{C43DD4F5-F412-4958-930C-D8B195001799}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Data", "App.Data\App.Data.csproj", "{C43DD4F5-F412-4958-930C-D8B195001799}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
